@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "notes": [
-    "影视、音乐和官网集中在一个客户端中使用",
-    "通过浏览器登录 PlayMac，一次登录即可使用各项服务",
-    "支持 Apple 芯片和 Intel 芯片 Mac"
+    "改善登录连接错误提示，证书日期异常时提供明确处理说明",
+    "保留官网、影视和音乐统一登录及安全证书校验",
+    "影视与音乐服务证书已更新，并完成自动续期验证"
   ],
   "downloads": {
-    "arm64": "https://pan.quark.cn/s/31dd89ad7e2f",
-    "x64": "https://pan.quark.cn/s/f09cc3105b80"
+    "arm64": "https://pan.quark.cn/s/9cf8903ac483",
+    "x64": "https://pan.quark.cn/s/7c9005152ec1"
   }
 }
